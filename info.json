@@ -1,0 +1,8 @@
+{
+    "author" : ["Falrek Games", "YamiKaitou"],
+    "install_msg" : "Thank you for installing my repo. Most of these cogs are smaller versions of larger bots we are working on. You can ask for support in the Redbot Cog Support server or on our dedicated server at <not public yet>",
+    "name" : "FalrekCogs",
+    "short" : "Some small and fun games",
+    "description" : "Some games that we've created to be larger bots but have decided to release scalled down versions of them to the Red community",
+    "tags" : ["fun", "economy", "games"]
+}
